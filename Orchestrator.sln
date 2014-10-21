@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orchestrator", "Orchestrator\Orchestrator.csproj", "{ECD584D9-AB9D-4246-B083-5679282FA129}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayerCore", "PlayerCore\PlayerCore.csproj", "{69BA9ACC-58C5-4B50-B71A-03768552E73D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrcPlayer", "OrcPlayer\OrcPlayer.csproj", "{D88A5F52-9221-4826-B9F6-2A238DE5CB15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SamplePlayer", "SamplePlayer\SamplePlayer.csproj", "{6CBDE9B3-31FD-41CA-9ED4-0B36EEA9138E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECD584D9-AB9D-4246-B083-5679282FA129}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECD584D9-AB9D-4246-B083-5679282FA129}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECD584D9-AB9D-4246-B083-5679282FA129}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECD584D9-AB9D-4246-B083-5679282FA129}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69BA9ACC-58C5-4B50-B71A-03768552E73D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69BA9ACC-58C5-4B50-B71A-03768552E73D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69BA9ACC-58C5-4B50-B71A-03768552E73D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69BA9ACC-58C5-4B50-B71A-03768552E73D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D88A5F52-9221-4826-B9F6-2A238DE5CB15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D88A5F52-9221-4826-B9F6-2A238DE5CB15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D88A5F52-9221-4826-B9F6-2A238DE5CB15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D88A5F52-9221-4826-B9F6-2A238DE5CB15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CBDE9B3-31FD-41CA-9ED4-0B36EEA9138E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CBDE9B3-31FD-41CA-9ED4-0B36EEA9138E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CBDE9B3-31FD-41CA-9ED4-0B36EEA9138E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CBDE9B3-31FD-41CA-9ED4-0B36EEA9138E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
